@@ -1,0 +1,81 @@
+CYNBIT WEBSITE QA AUDIT REPORT
+=============================================
+
+PASS: TC01 Homepage Loading - https://www.cynbit.in/
+PASS: TC02 Page Title - Cynbit Technologies | AI Automation & Software Solutions Jaipur | Cynbit Technologies
+PASS: TC03 Logo Visibility - Logo visible
+PASS: TC04 Header Visibility - Header visible
+PASS: TC05 Navigation Menu - 3 visible navigation links
+INFO: TC06 Internal Link Discovery - 19 internal links discovered
+PASS: TC07 Link Status - https://www.cynbit.in/ - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/bitelevate - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/bitelevate/paths - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/blog - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/blog/ai-agents-business-operations - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/careers - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/case-studies - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/contact - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/cookies - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/diaries - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/impact - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/internship - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/navigation - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/privacy - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/products - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/services - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/story - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/team - HTTP 200
+PASS: TC07 Link Status - https://www.cynbit.in/terms - HTTP 200
+PASS: TC08 Page Navigation - https://www.cynbit.in/
+PASS: TC08 Page Navigation - https://www.cynbit.in/bitelevate
+PASS: TC08 Page Navigation - https://www.cynbit.in/bitelevate/paths
+PASS: TC08 Page Navigation - https://www.cynbit.in/blog
+PASS: TC08 Page Navigation - https://www.cynbit.in/blog/ai-agents-business-operations
+PASS: TC08 Page Navigation - https://www.cynbit.in/careers
+PASS: TC08 Page Navigation - https://www.cynbit.in/case-studies
+PASS: TC08 Page Navigation - https://www.cynbit.in/contact
+PASS: TC08 Page Navigation - https://www.cynbit.in/cookies
+PASS: TC08 Page Navigation - https://www.cynbit.in/diaries
+PASS: TC08 Page Navigation - https://www.cynbit.in/impact
+PASS: TC08 Page Navigation - https://www.cynbit.in/internship
+PASS: TC08 Page Navigation - https://www.cynbit.in/navigation
+PASS: TC08 Page Navigation - https://www.cynbit.in/privacy
+PASS: TC08 Page Navigation - https://www.cynbit.in/products
+PASS: TC08 Page Navigation - https://www.cynbit.in/services
+PASS: TC08 Page Navigation - https://www.cynbit.in/story
+PASS: TC08 Page Navigation - https://www.cynbit.in/team
+PASS: TC08 Page Navigation - https://www.cynbit.in/terms
+PASS: TC09 Image URL - Image 1 - HTTP 200
+PASS: TC09 Image URL - Image 2 - HTTP 200
+PASS: TC09 Image URL - Image 3 - HTTP 200
+PASS: TC09 Image URL - Image 4 - HTTP 200
+PASS: TC09 Image URL - Image 5 - HTTP 200
+PASS: TC09 Image URL - Image 6 - HTTP 200
+PASS: TC09 Image URL - Image 7 - HTTP 200
+PASS: TC10 Contact Page - https://www.cynbit.in/contact
+INFO: TC11 Contact Forms - Forms found: 1
+INFO: TC12 Contact Input Fields - Fields found: 5
+INFO: TC13 Contact Link - mailto:opportunities@cynbit.in
+INFO: TC13 Contact Link - tel:+918947962667
+INFO: TC13 Contact Link - mailto:opportunities@cynbit.in
+INFO: TC13 Contact Link - mailto:opportunities@cynbit.in
+INFO: TC13 Contact Link - tel:+918947962667
+INFO: TC13 Contact Link - tel:+917891209777
+INFO: TC13 Contact Link - tel:+918302337367
+PASS: TC14 Products Page - https://www.cynbit.in/products
+INFO: TC15 Products Fields - Fields found: 23
+PASS: TC16 BitElevate Page - https://www.cynbit.in/bitelevate
+INFO: TC17 BitElevate Fields - Fields found: 33
+PASS: TC18 Careers Page - https://www.cynbit.in/careers
+PASS: TC19 Blog Page - https://www.cynbit.in/blog
+PASS: TC20 Case Studies Page - https://www.cynbit.in/case-studies
+PASS: TC21 Footer Visibility - Footer visible
+PASS: TC22 Responsive - Desktop - Viewport 1366 Page 1351
+PASS: TC22 Responsive - Tablet - Viewport 768 Page 753
+PASS: TC22 Responsive - Mobile - Viewport 390 Page 390
+
+========== SUMMARY ==========
+Total Results: 72
+Passed: 60
+Failed: 0
+Information: 12

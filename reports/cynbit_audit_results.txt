@@ -1,0 +1,54 @@
+PASS | TC01 Homepage Loading | https://www.cynbit.in/
+PASS | TC02 Page Title | Cynbit Technologies | AI Automation & Software Solutions Jaipur | Cynbit Technologies
+PASS | TC03 Logo Visibility | Logo is visible
+INFO | TC04 Internal Link Discovery | 19 internal links found
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/bitelevate
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/bitelevate/paths
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/blog
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/blog/ai-agents-business-operations
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/careers
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/case-studies
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/contact
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/cookies
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/diaries
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/impact
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/internship
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/navigation
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/privacy
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/products
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/services
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/story
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/team
+PASS | TC05 Link Status | 200 - https://www.cynbit.in/terms
+PASS | TC06 Page Navigation | https://www.cynbit.in/
+PASS | TC06 Page Navigation | https://www.cynbit.in/bitelevate
+PASS | TC06 Page Navigation | https://www.cynbit.in/bitelevate/paths
+PASS | TC06 Page Navigation | https://www.cynbit.in/blog
+PASS | TC06 Page Navigation | https://www.cynbit.in/blog/ai-agents-business-operations
+PASS | TC06 Page Navigation | https://www.cynbit.in/careers
+PASS | TC06 Page Navigation | https://www.cynbit.in/case-studies
+PASS | TC06 Page Navigation | https://www.cynbit.in/contact
+PASS | TC06 Page Navigation | https://www.cynbit.in/cookies
+PASS | TC06 Page Navigation | https://www.cynbit.in/diaries
+PASS | TC06 Page Navigation | https://www.cynbit.in/impact
+PASS | TC06 Page Navigation | https://www.cynbit.in/internship
+PASS | TC06 Page Navigation | https://www.cynbit.in/navigation
+PASS | TC06 Page Navigation | https://www.cynbit.in/privacy
+PASS | TC06 Page Navigation | https://www.cynbit.in/products
+PASS | TC06 Page Navigation | https://www.cynbit.in/services
+PASS | TC06 Page Navigation | https://www.cynbit.in/story
+PASS | TC06 Page Navigation | https://www.cynbit.in/team
+PASS | TC06 Page Navigation | https://www.cynbit.in/terms
+PASS | TC07 Image Loading | Image 1 loaded
+FAIL | TC07 Image Loading | Image 2 may be broken
+PASS | TC07 Image Loading | Image 3 loaded
+PASS | TC07 Image Loading | Image 4 loaded
+PASS | TC07 Image Loading | Image 5 loaded
+PASS | TC07 Image Loading | Image 6 loaded
+PASS | TC07 Image Loading | Image 7 loaded
+INFO | TC08 Visible Buttons and Links | 8 visible elements found
+INFO | TC09 Forms and Inputs | Forms: 0, Input fields: 0
+PASS | TC10 Responsive - Desktop | Viewport: 1352, Page: 1337
+PASS | TC10 Responsive - Tablet | Viewport: 755, Page: 740
+PASS | TC10 Responsive - Mobile | Viewport: 502, Page: 487
